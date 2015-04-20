@@ -26,6 +26,10 @@ It works in most modern browsers and Internet Explorer 10+.
 
 It's only 184 lines of JavaScript and 80 lines of Python.
 
+# Run it
+
+docker-compose up
+
 # License
 
 This is released in the public domain in the hopes that it will be generally

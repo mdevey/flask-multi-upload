@@ -1,0 +1,7 @@
+demo:
+  build: .
+  ports:
+   - "2006:2006"
+  volumes:
+   - /tmp/flask-multi-upload/:/usr/src/app/uploadr/static/uploads/
+
